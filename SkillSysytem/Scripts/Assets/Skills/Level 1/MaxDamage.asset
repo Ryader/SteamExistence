@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c9730868ce75ae40af315176b40b4f1, type: 3}
+  m_Name: MaxDamage
+  m_EditorClassIdentifier: 
+  Description: 
+  Icon: {fileID: 21300000, guid: 6826a680f536f3b4fa72004192c7221f, type: 3}
+  LevelNeeded: 1
+  XPNeeded: 10
+  AffectedAttributes:
+  - attributes: {fileID: 11400000, guid: 61485ba8b9a4c1f41a1b95c8f1d61349, type: 2}
+    amount: 20

@@ -1,0 +1,13 @@
+<dialogue name="Glashatai">
+  <node id="0" npcText="Добро пожаловать в Валенсию!">
+    <answer text="Ну здравствуй." toNode="1" />
+    <answer text="Прости, нет времени." exit="True" />
+  </node>
+  <node id="1" npcText="Давай я тебе расскажу про наш городок">
+    <answer text="Давай" toNode="2" />
+    <answer text="Нет, спасибо, меня ждет человек." exit="True" />
+  </node>
+  <node id="2" npcText="Присаживайся история будет длинной.">
+    <answer text="Интересно однако, нус, мне пора. До скорой встречи." exit="True" />
+  </node>
+</dialogue>
