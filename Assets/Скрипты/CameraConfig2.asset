@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b473413f4905ba24bbc8cf491e295d6c, type: 3}
+  m_Name: CameraConfig2
+  m_EditorClassIdentifier: 
+  turnSmooth: 0.02
+  pivotSpeed: 9
+  Y_rot_speed: 2
+  X_rot_speed: 2
+  minAngle: -35
+  maxAngle: 50
+  normalZ: -1.58
+  normalX: 0.8
+  aimZ: 0.6
+  aimX: 0.75
+  normalY: 1.4
