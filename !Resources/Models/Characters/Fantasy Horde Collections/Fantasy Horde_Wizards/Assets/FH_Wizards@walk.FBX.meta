@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 87dae85bed5f20b468a625a45ad259b7
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: WizardsRDigit23
+    100002: WizardsLUpperarm
+    100004: WizardsRDigit22
+    100006: WizardsLDigit11 1
+    100008: Wizards_war_face
+    100010: WizardsRDigit11 1
+    100012: //RootNode
+    100014: WizardsRDigit33
+    100016: WizardsLDigit13
+    100018: WizardsLDigit12
+    100020: WizardsLDigit23
+    100022: WizardsLDigit22
+    100024: WizardsLDigit33
+    100026: WizardsRDigit21
+    100028: Wizardscloth_back
+    100030: WizardsPelvis
+    100032: WizardsRDigit13
+    100034: WizardsRDigit11
+    100036: WizardsRFoot
+    100038: Wizardscloth_front
+    100040: Wizards_weaponR
+    100042: WizardsLDigit32
+    100044: WizardsLDigit31
+    100046: WizardsNeck
+    100048: WizardsLDigit11
+    100050: WizardsLFoot
+    100052: WizardsRPalm
+    100054: WizardsLPalm
+    100056: WizardsLForearm
+    100058: WizardsRDigit31
+    100060: WizardsRForearm
+    100062: Wizards_war_jaw
+    100064: WizardsRCollarbone
+    100066: WizardsRUpperarm
+    100068: WizardsLCollarbone
+    100070: WizardsLCalf
+    100072: WizardsLThigh
+    100074: WizardsRibcage
+    100076: WizardsSpine3
+    100078: WizardsRCalf
+    100080: WizardsRThigh
+    100082: WizardsHead
+    100084: WizardsRDigit12
+    100086: WizardsLDigit21
+    100088: Wizards_rgl
+    100090: WizardsSpine2
+    100092: WizardsSpine1
+    100094: WizardsRDigit32
+    400000: WizardsRDigit23
+    400002: WizardsLUpperarm
+    400004: WizardsRDigit22
+    400006: WizardsLDigit11 1
+    400008: Wizards_war_face
+    400010: WizardsRDigit11 1
+    400012: //RootNode
+    400014: WizardsRDigit33
+    400016: WizardsLDigit13
+    400018: WizardsLDigit12
+    400020: WizardsLDigit23
+    400022: WizardsLDigit22
+    400024: WizardsLDigit33
+    400026: WizardsRDigit21
+    400028: Wizardscloth_back
+    400030: WizardsPelvis
+    400032: WizardsRDigit13
+    400034: WizardsRDigit11
+    400036: WizardsRFoot
+    400038: Wizardscloth_front
+    400040: Wizards_weaponR
+    400042: WizardsLDigit32
+    400044: WizardsLDigit31
+    400046: WizardsNeck
+    400048: WizardsLDigit11
+    400050: WizardsLFoot
+    400052: WizardsRPalm
+    400054: WizardsLPalm
+    400056: WizardsLForearm
+    400058: WizardsRDigit31
+    400060: WizardsRForearm
+    400062: Wizards_war_jaw
+    400064: WizardsRCollarbone
+    400066: WizardsRUpperarm
+    400068: WizardsLCollarbone
+    400070: WizardsLCalf
+    400072: WizardsLThigh
+    400074: WizardsRibcage
+    400076: WizardsSpine3
+    400078: WizardsRCalf
+    400080: WizardsRThigh
+    400082: WizardsHead
+    400084: WizardsRDigit12
+    400086: WizardsLDigit21
+    400088: Wizards_rgl
+    400090: WizardsSpine2
+    400092: WizardsSpine1
+    400094: WizardsRDigit32
+    4300000: mage_rgl
+    4300002: mage_rgl_cloth
+    4300004: mage_skn
+    4300006: mage_head_02
+    4300008: Wizards_rgl
+    7400004: walk
+    11100000: //RootNode
+    13700000: Wizards_rgl
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: 
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

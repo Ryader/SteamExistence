@@ -1,0 +1,3579 @@
+fileFormatVersion: 2
+guid: 73ede30c3668cd14b94736e24dc70e6e
+timeCreated: 1430925841
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cyclop_club_LOD0
+    100002: Cyclop_club_LOD1
+    100004: //RootNode
+    100006: Cyclops
+    100008: Cyclops_Bracelet
+    100010: Cyclops_hair_LOD0
+    100012: Cyclops_hair_LOD1
+    100014: Cyclops_necklace
+    100016: Cyclops_Bracelet_L_LOD00
+    100018: Cyclops_Bracelet_L_LOD1
+    100020: Cyclops_Bracelet_R_LOD0
+    100022: Cyclops_Bracelet_R_LOD1
+    100024: CYclops_cloth_LOD0
+    100026: CYclops_cloth_LOD1
+    100028: Cyclops_LOD0
+    100030: Cyclops_necklace_LOD0
+    100032: Cyclops_necklace_LOD1
+    100034: goblincloth1
+    100036: goblincloth2
+    100038: goblineyeR
+    100040: goblinHead
+    100042: goblinjaw
+    100044: goblinLCalf
+    100046: goblinLCollarbone
+    100048: goblinLDigit11
+    100050: goblinLDigit12
+    100052: goblinLDigit13
+    100054: goblinLDigit21
+    100056: goblinLDigit22
+    100058: goblinLDigit23
+    100060: goblinLDigit31
+    100062: goblinLDigit32
+    100064: goblinLDigit33
+    100066: goblinLDigit41
+    100068: goblinLDigit42
+    100070: goblinLDigit43
+    100072: goblinLDigit51
+    100074: goblinLDigit52
+    100076: goblinLDigit53
+    100078: goblinLFoot
+    100080: goblinLForearm
+    100082: goblinLPalm
+    100084: goblinLThigh
+    100086: goblinLToe1
+    100088: goblinLToe2
+    100090: goblinLUpperarm
+    100092: goblinNeck1
+    100094: goblinNeck2
+    100096: goblinPelvis
+    100098: goblinRCalf
+    100100: goblinRCollarbone
+    100102: goblinRDigit11
+    100104: goblinRDigit12
+    100106: goblinRDigit13
+    100108: goblinRDigit21
+    100110: goblinRDigit22
+    100112: goblinRDigit23
+    100114: goblinRDigit31
+    100116: goblinRDigit32
+    100118: goblinRDigit33
+    100120: goblinRDigit41
+    100122: goblinRDigit42
+    100124: goblinRDigit43
+    100126: goblinRDigit51
+    100128: goblinRDigit52
+    100130: goblinRDigit53
+    100132: goblinRFoot
+    100134: goblinRForearm
+    100136: goblinRibcage
+    100138: goblinRPalm
+    100140: goblinRThigh
+    100142: goblinRToe1
+    100144: goblinRToe2
+    100146: goblinRUpperarm
+    100148: goblinSpine1
+    100150: goblinSpine2
+    100152: goblinSpine3
+    100154: goblinSpine4
+    100156: Cyclops_LOD1
+    100158: goblincloth_back1
+    100160: goblincloth_back2
+    100162: goblincloth_front1
+    100164: goblincloth_front2
+    100166: goblineye
+    100168: goblinNecklace1
+    100170: goblinNecklace2
+    100172: cyclopscloth_back1
+    100174: cyclopscloth_back2
+    100176: cyclopscloth_front1
+    100178: cyclopscloth_front2
+    100180: cyclopseye
+    100182: cyclopsHead
+    100184: cyclopsjaw
+    100186: cyclopsLCalf
+    100188: cyclopsLCollarbone
+    100190: cyclopsLDigit11
+    100192: cyclopsLDigit12
+    100194: cyclopsLDigit13
+    100196: cyclopsLDigit21
+    100198: cyclopsLDigit22
+    100200: cyclopsLDigit23
+    100202: cyclopsLDigit31
+    100204: cyclopsLDigit32
+    100206: cyclopsLDigit33
+    100208: cyclopsLDigit41
+    100210: cyclopsLDigit42
+    100212: cyclopsLDigit43
+    100214: cyclopsLDigit51
+    100216: cyclopsLDigit52
+    100218: cyclopsLDigit53
+    100220: cyclopsLFoot
+    100222: cyclopsLForearm
+    100224: cyclopsLPalm
+    100226: cyclopsLThigh
+    100228: cyclopsLToe1
+    100230: cyclopsLToe2
+    100232: cyclopsLUpperarm
+    100234: cyclopsNeck1
+    100236: cyclopsNeck2
+    100238: cyclopsNecklace1
+    100240: cyclopsNecklace2
+    100242: cyclopsPelvis
+    100244: cyclopsRCalf
+    100246: cyclopsRCollarbone
+    100248: cyclopsRDigit11
+    100250: cyclopsRDigit12
+    100252: cyclopsRDigit13
+    100254: cyclopsRDigit21
+    100256: cyclopsRDigit22
+    100258: cyclopsRDigit23
+    100260: cyclopsRDigit31
+    100262: cyclopsRDigit32
+    100264: cyclopsRDigit33
+    100266: cyclopsRDigit41
+    100268: cyclopsRDigit42
+    100270: cyclopsRDigit43
+    100272: cyclopsRDigit51
+    100274: cyclopsRDigit52
+    100276: cyclopsRDigit53
+    100278: cyclopsRFoot
+    100280: cyclopsRForearm
+    100282: cyclopsRibcage
+    100284: cyclopsRPalm
+    100286: cyclopsRThigh
+    100288: cyclopsRToe1
+    100290: cyclopsRToe2
+    100292: cyclopsRUpperarm
+    100294: cyclopsSpine1
+    100296: cyclopsSpine2
+    100298: cyclopsSpine3
+    100300: cyclopsSpine4
+    100302: club_trunk_LOD0
+    100304: club_trunk_LOD1
+    100306: Cyclops_Trunk_LOD0
+    100308: Cyclops_Trunk_LOD1
+    400000: Cyclop_club_LOD0
+    400002: Cyclop_club_LOD1
+    400004: //RootNode
+    400006: Cyclops
+    400008: Cyclops_Bracelet
+    400010: Cyclops_hair_LOD0
+    400012: Cyclops_hair_LOD1
+    400014: Cyclops_necklace
+    400016: Cyclops_Bracelet_L_LOD00
+    400018: Cyclops_Bracelet_L_LOD1
+    400020: Cyclops_Bracelet_R_LOD0
+    400022: Cyclops_Bracelet_R_LOD1
+    400024: CYclops_cloth_LOD0
+    400026: CYclops_cloth_LOD1
+    400028: Cyclops_LOD0
+    400030: Cyclops_necklace_LOD0
+    400032: Cyclops_necklace_LOD1
+    400034: goblincloth1
+    400036: goblincloth2
+    400038: goblineyeR
+    400040: goblinHead
+    400042: goblinjaw
+    400044: goblinLCalf
+    400046: goblinLCollarbone
+    400048: goblinLDigit11
+    400050: goblinLDigit12
+    400052: goblinLDigit13
+    400054: goblinLDigit21
+    400056: goblinLDigit22
+    400058: goblinLDigit23
+    400060: goblinLDigit31
+    400062: goblinLDigit32
+    400064: goblinLDigit33
+    400066: goblinLDigit41
+    400068: goblinLDigit42
+    400070: goblinLDigit43
+    400072: goblinLDigit51
+    400074: goblinLDigit52
+    400076: goblinLDigit53
+    400078: goblinLFoot
+    400080: goblinLForearm
+    400082: goblinLPalm
+    400084: goblinLThigh
+    400086: goblinLToe1
+    400088: goblinLToe2
+    400090: goblinLUpperarm
+    400092: goblinNeck1
+    400094: goblinNeck2
+    400096: goblinPelvis
+    400098: goblinRCalf
+    400100: goblinRCollarbone
+    400102: goblinRDigit11
+    400104: goblinRDigit12
+    400106: goblinRDigit13
+    400108: goblinRDigit21
+    400110: goblinRDigit22
+    400112: goblinRDigit23
+    400114: goblinRDigit31
+    400116: goblinRDigit32
+    400118: goblinRDigit33
+    400120: goblinRDigit41
+    400122: goblinRDigit42
+    400124: goblinRDigit43
+    400126: goblinRDigit51
+    400128: goblinRDigit52
+    400130: goblinRDigit53
+    400132: goblinRFoot
+    400134: goblinRForearm
+    400136: goblinRibcage
+    400138: goblinRPalm
+    400140: goblinRThigh
+    400142: goblinRToe1
+    400144: goblinRToe2
+    400146: goblinRUpperarm
+    400148: goblinSpine1
+    400150: goblinSpine2
+    400152: goblinSpine3
+    400154: goblinSpine4
+    400156: Cyclops_LOD1
+    400158: goblincloth_back1
+    400160: goblincloth_back2
+    400162: goblincloth_front1
+    400164: goblincloth_front2
+    400166: goblineye
+    400168: goblinNecklace1
+    400170: goblinNecklace2
+    400172: cyclopscloth_back1
+    400174: cyclopscloth_back2
+    400176: cyclopscloth_front1
+    400178: cyclopscloth_front2
+    400180: cyclopseye
+    400182: cyclopsHead
+    400184: cyclopsjaw
+    400186: cyclopsLCalf
+    400188: cyclopsLCollarbone
+    400190: cyclopsLDigit11
+    400192: cyclopsLDigit12
+    400194: cyclopsLDigit13
+    400196: cyclopsLDigit21
+    400198: cyclopsLDigit22
+    400200: cyclopsLDigit23
+    400202: cyclopsLDigit31
+    400204: cyclopsLDigit32
+    400206: cyclopsLDigit33
+    400208: cyclopsLDigit41
+    400210: cyclopsLDigit42
+    400212: cyclopsLDigit43
+    400214: cyclopsLDigit51
+    400216: cyclopsLDigit52
+    400218: cyclopsLDigit53
+    400220: cyclopsLFoot
+    400222: cyclopsLForearm
+    400224: cyclopsLPalm
+    400226: cyclopsLThigh
+    400228: cyclopsLToe1
+    400230: cyclopsLToe2
+    400232: cyclopsLUpperarm
+    400234: cyclopsNeck1
+    400236: cyclopsNeck2
+    400238: cyclopsNecklace1
+    400240: cyclopsNecklace2
+    400242: cyclopsPelvis
+    400244: cyclopsRCalf
+    400246: cyclopsRCollarbone
+    400248: cyclopsRDigit11
+    400250: cyclopsRDigit12
+    400252: cyclopsRDigit13
+    400254: cyclopsRDigit21
+    400256: cyclopsRDigit22
+    400258: cyclopsRDigit23
+    400260: cyclopsRDigit31
+    400262: cyclopsRDigit32
+    400264: cyclopsRDigit33
+    400266: cyclopsRDigit41
+    400268: cyclopsRDigit42
+    400270: cyclopsRDigit43
+    400272: cyclopsRDigit51
+    400274: cyclopsRDigit52
+    400276: cyclopsRDigit53
+    400278: cyclopsRFoot
+    400280: cyclopsRForearm
+    400282: cyclopsRibcage
+    400284: cyclopsRPalm
+    400286: cyclopsRThigh
+    400288: cyclopsRToe1
+    400290: cyclopsRToe2
+    400292: cyclopsRUpperarm
+    400294: cyclopsSpine1
+    400296: cyclopsSpine2
+    400298: cyclopsSpine3
+    400300: cyclopsSpine4
+    400302: club_trunk_LOD0
+    400304: club_trunk_LOD1
+    400306: Cyclops_Trunk_LOD0
+    400308: Cyclops_Trunk_LOD1
+    2300000: Cyclop_club_LOD0
+    2300002: Cyclop_club_LOD1
+    2300004: Cyclops
+    2300006: Cyclops_Bracelet
+    2300008: Cyclops_hair_LOD0
+    2300010: Cyclops_hair_LOD1
+    2300012: Cyclops_necklace
+    2300014: Cyclops_Bracelet_L_LOD00
+    2300016: Cyclops_Bracelet_L_LOD1
+    2300018: Cyclops_Bracelet_R_LOD0
+    2300020: Cyclops_Bracelet_R_LOD1
+    2300022: CYclops_cloth_LOD0
+    2300024: CYclops_cloth_LOD1
+    2300026: Cyclops_LOD0
+    2300028: Cyclops_necklace_LOD0
+    2300030: Cyclops_necklace_LOD1
+    2300032: club_trunk_LOD0
+    2300034: club_trunk_LOD1
+    2300036: Cyclops_Trunk_LOD0
+    2300038: Cyclops_Trunk_LOD1
+    3300000: Cyclop_club_LOD0
+    3300002: Cyclop_club_LOD1
+    3300004: Cyclops
+    3300006: Cyclops_Bracelet
+    3300008: Cyclops_hair_LOD0
+    3300010: Cyclops_hair_LOD1
+    3300012: Cyclops_necklace
+    3300014: Cyclops_Bracelet_L_LOD00
+    3300016: Cyclops_Bracelet_L_LOD1
+    3300018: Cyclops_Bracelet_R_LOD0
+    3300020: Cyclops_Bracelet_R_LOD1
+    3300022: CYclops_cloth_LOD0
+    3300024: CYclops_cloth_LOD1
+    3300026: Cyclops_LOD0
+    3300028: Cyclops_necklace_LOD0
+    3300030: Cyclops_necklace_LOD1
+    3300032: club_trunk_LOD0
+    3300034: club_trunk_LOD1
+    3300036: Cyclops_Trunk_LOD0
+    3300038: Cyclops_Trunk_LOD1
+    4300000: Cyclops
+    4300002: Cyclop_club_LOD1
+    4300004: Cyclop_club_LOD0
+    4300006: Cyclops_hair_LOD1
+    4300008: Cyclops_hair_LOD0
+    4300010: Cyclops_Bracelet
+    4300012: Cyclops_necklace
+    4300014: Cyclops_LOD0
+    4300016: Cyclops_Bracelet_R_LOD0
+    4300018: Cyclops_necklace_LOD0
+    4300020: Cyclops_necklace_LOD1
+    4300022: Cyclops_Bracelet_R_LOD1
+    4300024: CYclops_cloth_LOD0
+    4300026: Cyclops_Bracelet_L_LOD1
+    4300028: Cyclops_Bracelet_L_LOD00
+    4300030: CYclops_cloth_LOD1
+    4300032: Cyclops_LOD1
+    4300034: club_trunk_LOD0
+    4300036: club_trunk_LOD1
+    4300038: Cyclops_Trunk_LOD0
+    4300040: Cyclops_Trunk_LOD1
+    7400000: idle
+    7400002: taunt1
+    7400004: taunt2
+    7400006: crouch
+    7400008: talk
+    7400010: jump
+    7400012: attack1
+    7400014: attack2
+    7400016: attack3
+    7400018: death
+    7400020: walk
+    7400022: run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cyclops_Bracelet_L_LOD00
+    13700002: Cyclops_Bracelet_L_LOD1
+    13700004: Cyclops_Bracelet_R_LOD0
+    13700006: Cyclops_Bracelet_R_LOD1
+    13700008: CYclops_cloth_LOD0
+    13700010: CYclops_cloth_LOD1
+    13700012: Cyclops_hair_LOD0
+    13700014: Cyclops_hair_LOD1
+    13700016: Cyclops_LOD0
+    13700018: Cyclops_necklace_LOD0
+    13700020: Cyclops_necklace_LOD1
+    13700022: Cyclops_LOD1
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: taunt1
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: taunt2
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: crouch
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: talk
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack1
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack2
+      takeName: Take 001
+      firstFrame: 440
+      lastFrame: 470
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack3
+      takeName: Take 001
+      firstFrame: 480
+      lastFrame: 535
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 700
+      lastFrame: 735
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 800
+      lastFrame: 835
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 850
+      lastFrame: 875
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD00
+        weight: 1
+      - path: Cyclops_Bracelet_L_LOD1
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD0
+        weight: 1
+      - path: Cyclops_Bracelet_R_LOD1
+        weight: 1
+      - path: CYclops_cloth_LOD0
+        weight: 1
+      - path: CYclops_cloth_LOD1
+        weight: 1
+      - path: Cyclops_hair_LOD0
+        weight: 1
+      - path: Cyclops_hair_LOD1
+        weight: 1
+      - path: Cyclops_LOD0
+        weight: 1
+      - path: Cyclops_LOD1
+        weight: 1
+      - path: Cyclops_necklace_LOD0
+        weight: 1
+      - path: Cyclops_necklace_LOD1
+        weight: 1
+      - path: cyclopsPelvis
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_back1/cyclopscloth_back2
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1
+        weight: 1
+      - path: cyclopsPelvis/cyclopscloth_front1/cyclopscloth_front2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsLThigh/cyclopsLCalf/cyclopsLFoot/cyclopsLToe1/cyclopsLToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsRThigh/cyclopsRCalf/cyclopsRFoot/cyclopsRToe1/cyclopsRToe2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit11/cyclopsLDigit12/cyclopsLDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit21/cyclopsLDigit22/cyclopsLDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit31/cyclopsLDigit32/cyclopsLDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit41/cyclopsLDigit42/cyclopsLDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsLCollarbone/cyclopsLUpperarm/cyclopsLForearm/cyclopsLPalm/cyclopsLDigit51/cyclopsLDigit52/cyclopsLDigit53
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopseye
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNeck1/cyclopsNeck2/cyclopsHead/cyclopsjaw
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsNecklace1/cyclopsNecklace2
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclop_club_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD0
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/Cyclops_Trunk_LOD1
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit11/cyclopsRDigit12/cyclopsRDigit13
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit21/cyclopsRDigit22/cyclopsRDigit23
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit31/cyclopsRDigit32/cyclopsRDigit33
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit41/cyclopsRDigit42/cyclopsRDigit43
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52
+        weight: 1
+      - path: cyclopsPelvis/cyclopsSpine1/cyclopsSpine2/cyclopsSpine3/cyclopsSpine4/cyclopsRibcage/cyclopsRCollarbone/cyclopsRUpperarm/cyclopsRForearm/cyclopsRPalm/cyclopsRDigit51/cyclopsRDigit52/cyclopsRDigit53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: cyclopsPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsSpine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsSpine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsNeck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLToe1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRToe1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopseye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsjaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit11
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit12
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit13
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsLDigit53
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit11
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit12
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit13
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cyclopsRDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Cyclops(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_Bracelet_L_LOD00
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_Bracelet_L_LOD1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_Bracelet_R_LOD0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_Bracelet_R_LOD1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CYclops_cloth_LOD0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CYclops_cloth_LOD1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_hair_LOD0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_hair_LOD1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_LOD0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_LOD1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_necklace_LOD0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cyclops_necklace_LOD1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: cyclopsPelvis
+      position: {x: 7.6659239e-09, y: 1.08419001, z: -.0551662296}
+      rotation: {x: -9.39925684e-08, y: .708339214, z: .705872178, w: 9.43210736e-08}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: cyclopscloth_front1
+      position: {x: -3.21981268e-08, y: .205788538, z: .0169581603}
+      rotation: {x: .999699056, y: -5.61051414e-11, z: -4.70557318e-08, w: -.0245323349}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: cyclopscloth_front2
+      position: {x: -0, y: 1.90734859e-08, z: .210402369}
+      rotation: {x: -.0245322417, y: 7.00523818e-15, z: 4.16991228e-15, w: .999699056}
+      scale: {x: 1, y: .999999583, z: .999999464}
+      transformModified: 1
+    - name: cyclopsRThigh
+      position: {x: -.117993571, y: .019928202, z: -.0332759097}
+      rotation: {x: .0101170354, y: .997071207, z: .0669061318, w: -.0356409512}
+      scale: {x: 1.00000036, y: 1.00000036, z: .999999702}
+      transformModified: 1
+    - name: cyclopsRCalf
+      position: {x: 1.20162963e-06, y: -4.95910626e-07, z: .444746077}
+      rotation: {x: .146024093, y: -.0183343999, z: -.119807616, w: .981828392}
+      scale: {x: .99999994, y: .999999106, z: 1.00000024}
+      transformModified: 1
+    - name: cyclopsRFoot
+      position: {x: -0, y: 0, z: .499850333}
+      rotation: {x: -.617243111, y: -.00487987418, z: -.0634138212, w: .784197569}
+      scale: {x: .999999583, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: cyclopsRToe1
+      position: {x: 7.33852357e-05, y: .0078078839, z: .224762946}
+      rotation: {x: -.107142441, y: .0310409795, z: .00261436193, w: .993755579}
+      scale: {x: .999999881, y: 1.00000024, z: .999999344}
+      transformModified: 1
+    - name: cyclopsRToe2
+      position: {x: 1.90734859e-08, y: 0, z: .0485883504}
+      rotation: {x: -.0844321921, y: .0210373625, z: .00486919656, w: .996195257}
+      scale: {x: .999999583, y: .99999994, z: 1.00000072}
+      transformModified: 1
+    - name: cyclopsLThigh
+      position: {x: .117993571, y: .019928202, z: -.0332759097}
+      rotation: {x: -.0101141464, y: .997071922, z: .0669140518, w: .0356062129}
+      scale: {x: 1.00000048, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: cyclopsLCalf
+      position: {x: -1.18255616e-06, y: -4.95910626e-07, z: .444746166}
+      rotation: {x: .145995677, y: .0184370242, z: .119823396, w: .981828749}
+      scale: {x: 1, y: .99999994, z: .999999166}
+      transformModified: 1
+    - name: cyclopsLFoot
+      position: {x: -0, y: 7.15255721e-09, z: .499850214}
+      rotation: {x: -.61719662, y: .00433546538, z: .063668184, w: .784216762}
+      scale: {x: 1.0000006, y: 1.0000006, z: .999998927}
+      transformModified: 1
+    - name: cyclopsLToe1
+      position: {x: -7.33947745e-05, y: .0078078839, z: .224762931}
+      rotation: {x: -.107154861, y: -.0304965209, z: -.00255532376, w: .993771255}
+      scale: {x: 1, y: 1.00000024, z: 1.00000072}
+      transformModified: 1
+    - name: cyclopsLToe2
+      position: {x: -0, y: 4.76837148e-09, z: .048588369}
+      rotation: {x: -.0844325274, y: -.0210374538, z: -.00486918166, w: .996195197}
+      scale: {x: .999999404, y: .99999994, z: .999999464}
+      transformModified: 1
+    - name: cyclopscloth_back1
+      position: {x: 1.7841284e-08, y: -.0939280838, z: .0281530749}
+      rotation: {x: .998957753, y: 2.37073763e-07, z: 3.48746632e-08, w: .0456443503}
+      scale: {x: 1.00000024, y: 1, z: .999999762}
+      transformModified: 1
+    - name: cyclopscloth_back2
+      position: {x: 6.82121011e-15, y: -3.81469718e-08, z: .177791893}
+      rotation: {x: -.0243799351, y: -2.35737407e-09, z: -5.74698587e-11, w: .999702811}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: cyclopsSpine1
+      position: {x: -2.41825532e-10, y: -.0414861813, z: .050835494}
+      rotation: {x: -.106594816, y: -5.90138782e-08, z: 2.09644497e-08, w: .994302571}
+      scale: {x: 1, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: cyclopsSpine2
+      position: {x: 9.09494681e-15, y: 0, z: .1599015}
+      rotation: {x: .0420746915, y: 3.43969617e-08, z: 1.55874584e-08, w: .999114513}
+      scale: {x: 1, y: 1.00000048, z: 1.00000036}
+      transformModified: 1
+    - name: cyclopsSpine3
+      position: {x: -1.13686835e-15, y: 0, z: .117119901}
+      rotation: {x: -.0886505991, y: 1.52216142e-08, z: -7.92463428e-09, w: .996062815}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: cyclopsSpine4
+      position: {x: 4.54747341e-15, y: 3.81469718e-08, z: .12586014}
+      rotation: {x: -.165958375, y: -3.63739661e-09, z: -2.53413246e-09, w: .986132801}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: cyclopsRibcage
+      position: {x: -0, y: -7.62939436e-08, z: .169600591}
+      rotation: {x: .313107252, y: -1.65931519e-10, z: -2.31390533e-08, w: .94971782}
+      scale: {x: .999999881, y: .999999464, z: .999999523}
+      transformModified: 1
+    - name: cyclopsNecklace1
+      position: {x: -1.90007317e-08, y: .125836149, z: -.0540631078}
+      rotation: {x: .992490768, y: -0, z: 0, w: -.122319758}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: cyclopsNecklace2
+      position: {x: 2.2737367e-15, y: 3.81469718e-08, z: .11199829}
+      rotation: {x: -.0353530534, y: -2.39273319e-15, z: -6.97872859e-15, w: .999374866}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: cyclopsNeck1
+      position: {x: -7.65824115e-09, y: .0101184938, z: .0056280517}
+      rotation: {x: -.351811856, y: -6.46106884e-08, z: 2.0431683e-09, w: .93607074}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: cyclopsNeck2
+      position: {x: 1.81898936e-14, y: -7.62939436e-08, z: .123749465}
+      rotation: {x: .248239204, y: 4.75898396e-08, z: -7.47727658e-09, w: .9686988}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: cyclopsHead
+      position: {x: -9.09494681e-15, y: 0, z: .104217835}
+      rotation: {x: .197259143, y: 4.36732002e-08, z: 3.04183234e-09, w: .980351388}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: cyclopsjaw
+      position: {x: -7.85448684e-09, y: .0608025342, z: -.0133810425}
+      rotation: {x: .91958952, y: 3.29941905e-08, z: -5.32887192e-08, w: -.392880648}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: cyclopseye
+      position: {x: -3.53374152e-09, y: .144458458, z: .0683436543}
+      rotation: {x: -1.01171679e-07, y: -3.53241099e-08, z: -.676500678, w: .736442029}
+      scale: {x: .999999702, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: cyclopsLCollarbone
+      position: {x: .0330310427, y: .137805328, z: -.0414790325}
+      rotation: {x: .177921355, y: .700522661, z: -.0446349233, w: .689651966}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: cyclopsLUpperarm
+      position: {x: -0, y: 0, z: .197182059}
+      rotation: {x: -.197187111, y: -.0192497876, z: -.161868408, w: .966718793}
+      scale: {x: 1.00000238, y: .999997318, z: 1}
+      transformModified: 1
+    - name: cyclopsLForearm
+      position: {x: -0, y: 9.53674295e-09, z: .406094581}
+      rotation: {x: .00625112373, y: .00941913854, z: -.0270139296, w: .999571145}
+      scale: {x: .999992132, y: .999998927, z: 1.00000966}
+      transformModified: 1
+    - name: cyclopsLPalm
+      position: {x: -1.52587887e-07, y: 0, z: .339211196}
+      rotation: {x: .0241072476, y: -.0185584426, z: .789063931, w: .613557279}
+      scale: {x: .999995351, y: .999978185, z: 1.0000267}
+      transformModified: 1
+    - name: cyclopsLDigit21
+      position: {x: .05489292, y: -.00882797223, z: .12859039}
+      rotation: {x: .033263173, y: .0327940658, z: -.117020868, w: .992030382}
+      scale: {x: .999998212, y: .999973297, z: 1.00002885}
+      transformModified: 1
+    - name: cyclopsLDigit22
+      position: {x: -1.90734859e-08, y: 0, z: .0707154423}
+      rotation: {x: .0368602984, y: 3.09431755e-07, z: -2.45869018e-07, w: .999320447}
+      scale: {x: .99999696, y: .999967992, z: 1.00003815}
+      transformModified: 1
+    - name: cyclopsLDigit23
+      position: {x: 1.90734859e-08, y: 0, z: .0422340371}
+      rotation: {x: .15987739, y: -1.50210315e-08, z: 7.03620202e-08, w: .9871369}
+      scale: {x: .99999702, y: .999959469, z: 1.00004303}
+      transformModified: 1
+    - name: cyclopsLDigit41
+      position: {x: -.0219680499, y: .00847717281, z: .129487306}
+      rotation: {x: .0173257012, y: .0208981968, z: .0133162178, w: .999542773}
+      scale: {x: 1.00002408, y: .999963999, z: 1.00001478}
+      transformModified: 1
+    - name: cyclopsLDigit42
+      position: {x: -1.90734859e-08, y: 1.52587887e-07, z: .0582276918}
+      rotation: {x: .0307048149, y: 3.54484619e-08, z: -1.5832482e-08, w: .999528527}
+      scale: {x: 1.00003016, y: .999977171, z: .999996483}
+      transformModified: 1
+    - name: cyclopsLDigit43
+      position: {x: 3.81469718e-08, y: 1.52587887e-07, z: .0524320975}
+      rotation: {x: .0801123604, y: -1.64138059e-09, z: -2.04226289e-08, w: .996785879}
+      scale: {x: 1.00003004, y: .999995887, z: .999977708}
+      transformModified: 1
+    - name: cyclopsLDigit31
+      position: {x: .0181447975, y: .0083799744, z: .130122066}
+      rotation: {x: .0234402269, y: .0246309824, z: -.0650336817, w: .997303605}
+      scale: {x: .999996603, y: .999966979, z: 1.0000397}
+      transformModified: 1
+    - name: cyclopsLDigit32
+      position: {x: -0, y: -1.52587887e-07, z: .0742360651}
+      rotation: {x: .0365783237, y: 1.39162807e-06, z: -4.6193577e-07, w: .999330759}
+      scale: {x: .99999702, y: .999967396, z: 1.00003541}
+      transformModified: 1
+    - name: cyclopsLDigit33
+      position: {x: -0, y: 1.52587887e-07, z: .0458728783}
+      rotation: {x: .161972091, y: 1.11951834e-08, z: -6.97880438e-08, w: .986795366}
+      scale: {x: 1.00003004, y: .999979734, z: .999993503}
+      transformModified: 1
+    - name: cyclopsLDigit51
+      position: {x: -.0592334084, y: -.00110031129, z: .111071773}
+      rotation: {x: .023334967, y: .0249215942, z: .0351238213, w: .998799622}
+      scale: {x: 1.00002241, y: .99996388, z: 1.00001407}
+      transformModified: 1
+    - name: cyclopsLDigit52
+      position: {x: 1.90734859e-08, y: 0, z: .0505260453}
+      rotation: {x: .0286039505, y: -2.35612856e-06, z: 3.12109336e-07, w: .999590814}
+      scale: {x: 1.00003016, y: .999971211, z: 1.00000191}
+      transformModified: 1
+    - name: cyclopsLDigit53
+      position: {x: 5.72204577e-08, y: 0, z: .0214028172}
+      rotation: {x: .141170353, y: -3.09529335e-09, z: -1.33029999e-07, w: .989985347}
+      scale: {x: 1.00002992, y: .999992192, z: .999981105}
+      transformModified: 1
+    - name: cyclopsLDigit11
+      position: {x: .0464501567, y: -.0256541446, z: .0187754817}
+      rotation: {x: -.199388281, y: .360401332, z: -.552765131, w: .724434853}
+      scale: {x: .999995828, y: .999952853, z: 1.00005174}
+      transformModified: 1
+    - name: cyclopsLDigit12
+      position: {x: -0, y: 1.90734859e-08, z: .0660586506}
+      rotation: {x: .0356376581, y: 3.5017726e-07, z: -1.32620323e-06, w: .999364853}
+      scale: {x: .999976099, y: .999986053, z: 1.00004125}
+      transformModified: 1
+    - name: cyclopsLDigit13
+      position: {x: 1.52587887e-07, y: -9.53674295e-09, z: .047650069}
+      rotation: {x: .0391976796, y: -3.0619784e-08, z: -2.02362589e-08, w: .999231517}
+      scale: {x: .999976158, y: .999996364, z: 1.00002801}
+      transformModified: 1
+    - name: cyclopsRCollarbone
+      position: {x: -.0330310427, y: .137805358, z: -.0414790325}
+      rotation: {x: .177921087, y: -.70052278, z: .0446348861, w: .689651728}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: cyclopsRUpperarm
+      position: {x: -0, y: -3.81469718e-08, z: .197182044}
+      rotation: {x: -.197187081, y: .0192497056, z: .161868513, w: .966718793}
+      scale: {x: .999996901, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: cyclopsRForearm
+      position: {x: -0, y: 9.53674295e-09, z: .406094551}
+      rotation: {x: .00625182455, y: -.00941887125, z: .0270136204, w: .999571204}
+      scale: {x: 1.00000834, y: 1, z: .999991059}
+      transformModified: 1
+    - name: cyclopsRPalm
+      position: {x: -0, y: 0, z: .339211255}
+      rotation: {x: -.00557645177, y: .0504964106, z: -.787597537, w: .614092112}
+      scale: {x: 1.00000846, y: 1.00001884, z: .999973118}
+      transformModified: 1
+    - name: Cyclop_club_LOD0
+      position: {x: -.150874332, y: -.0694670081, z: .0995780155}
+      rotation: {x: .650700092, y: .718066812, z: .161868498, w: -.186461851}
+      scale: {x: 1.00000203, y: .999998391, z: .999999821}
+      transformModified: 1
+    - name: Cyclop_club_LOD1
+      position: {x: -.150874332, y: -.0694670081, z: .0995780155}
+      rotation: {x: .650700092, y: .718066812, z: .161868498, w: -.186461851}
+      scale: {x: 1.00000203, y: .999998391, z: .999999821}
+      transformModified: 1
+    - name: Cyclops_Trunk_LOD0
+      position: {x: -.150874332, y: -.0694670081, z: .0995780155}
+      rotation: {x: .650699854, y: .718066871, z: .161868721, w: -.186462313}
+      scale: {x: .999978065, y: .999992669, z: 1.00003123}
+      transformModified: 1
+    - name: Cyclops_Trunk_LOD1
+      position: {x: -.150874332, y: -.0694670081, z: .0995780155}
+      rotation: {x: .650699854, y: .718066871, z: .161868721, w: -.186462313}
+      scale: {x: .999978065, y: .999992669, z: 1.00003123}
+      transformModified: 1
+    - name: cyclopsRDigit21
+      position: {x: -.0548932441, y: -.0088282777, z: .128584206}
+      rotation: {x: .0332441851, y: -.0328053311, z: .117015131, w: .992031276}
+      scale: {x: 1.00000286, y: 1.00002706, z: .999971092}
+      transformModified: 1
+    - name: cyclopsRDigit22
+      position: {x: -0, y: 0, z: .0707154796}
+      rotation: {x: .0368307345, y: -4.02098465e-07, z: -3.16649647e-07, w: .99932152}
+      scale: {x: 1, y: 1.00002789, z: .999966204}
+      transformModified: 1
+    - name: cyclopsRDigit23
+      position: {x: -0, y: 1.52587887e-07, z: .0422340371}
+      rotation: {x: .159915447, y: -3.67734856e-08, z: 5.95731464e-09, w: .987130702}
+      scale: {x: 1, y: 1.00004005, z: .999958277}
+      transformModified: 1
+    - name: cyclopsRDigit41
+      position: {x: .0219681934, y: .00847732555, z: .129481122}
+      rotation: {x: .0172961373, y: -.020925438, z: -.0133284209, w: .999542594}
+      scale: {x: .999980271, y: 1.00003135, z: .999982595}
+      transformModified: 1
+    - name: cyclopsRDigit42
+      position: {x: 3.81469718e-08, y: 1.52587887e-07, z: .0582276918}
+      rotation: {x: .0306556784, y: -1.09791267e-06, z: -1.69500666e-07, w: .999530017}
+      scale: {x: .999974072, y: 1.00002241, z: 1.00000608}
+      transformModified: 1
+    - name: cyclopsRDigit43
+      position: {x: -0, y: 1.52587887e-07, z: .0524319448}
+      rotation: {x: .080121316, y: 1.58478191e-08, z: -2.36982807e-08, w: .996785164}
+      scale: {x: .999973059, y: 1.00000489, z: 1.00002217}
+      transformModified: 1
+    - name: cyclopsRDigit31
+      position: {x: -.018144913, y: .00838012714, z: .130115733}
+      rotation: {x: .0234128013, y: -.0246498585, z: .065024294, w: .99730438}
+      scale: {x: 1.0000006, y: 1.00002861, z: .99996376}
+      transformModified: 1
+    - name: cyclopsRDigit32
+      position: {x: -1.90734859e-08, y: -1.52587887e-07, z: .0742360651}
+      rotation: {x: .0365362428, y: 4.7964545e-07, z: 2.60770197e-08, w: .999332368}
+      scale: {x: 1, y: 1.00003254, z: .999965191}
+      transformModified: 1
+    - name: cyclopsRDigit33
+      position: {x: -0, y: 0, z: .0458728001}
+      rotation: {x: .162010923, y: -3.78591167e-08, z: -4.66379682e-08, w: .986788988}
+      scale: {x: .999973953, y: 1.00001907, z: 1.00000823}
+      transformModified: 1
+    - name: cyclopsRDigit51
+      position: {x: .0592337884, y: -.00110061641, z: .111066431}
+      rotation: {x: .0233054217, y: -.0249450207, z: -.0351347849, w: .998799443}
+      scale: {x: .999977648, y: 1.00003588, z: .999986887}
+      transformModified: 1
+    - name: cyclopsRDigit52
+      position: {x: -0, y: 0, z: .0505258925}
+      rotation: {x: .0285520386, y: 8.76374202e-07, z: -6.51925575e-07, w: .999592364}
+      scale: {x: .999973118, y: 1.00002503, z: .999995232}
+      transformModified: 1
+    - name: cyclopsRDigit53
+      position: {x: -0, y: 0, z: .0214027409}
+      rotation: {x: .141184136, y: -3.23942508e-08, z: -2.92479232e-08, w: .98998338}
+      scale: {x: .999973178, y: 1.00000811, z: 1.00001931}
+      transformModified: 1
+    - name: cyclopsRDigit11
+      position: {x: -.0464504249, y: -.0256552119, z: .018774718}
+      rotation: {x: -.201104, y: -.35961321, z: .552248418, w: .724746346}
+      scale: {x: 1.00000799, y: 1.00004363, z: .999949813}
+      transformModified: 1
+    - name: cyclopsRDigit12
+      position: {x: -0, y: -3.81469718e-08, z: .0660587326}
+      rotation: {x: .0356032737, y: -3.12924271e-07, z: -1.15483954e-06, w: .999365985}
+      scale: {x: 1.00002003, y: 1.00001097, z: .999963582}
+      transformModified: 1
+    - name: cyclopsRDigit13
+      position: {x: -0, y: 9.53674295e-09, z: .047650069}
+      rotation: {x: .0392085463, y: 1.49624348e-08, z: 1.27693445e-09, w: .99923104}
+      scale: {x: 1.00002003, y: 1.00000501, z: .999972939}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
